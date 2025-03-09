@@ -1,0 +1,15 @@
+Year,Event,Category,Impact
+1941,"Zuse Z3, the first programmable computer, is developed.",Mainframe,First programmable computer.
+1946,"ENIAC, the first general-purpose electronic computer, is completed.",Mainframe,Paved the way for modern computing.
+1951,"UNIVAC I, the first commercial computer, is introduced.",Mainframe,First computer used for business applications.
+1956,"IBM 305 RAMAC, the first computer with a hard drive, is introduced.",Storage,First use of magnetic disk storage.
+1958,Jack Kilby develops the first integrated circuit.,Semiconductor,Foundation for modern microprocessors.
+1964,"IBM System/360, the first family of computers with compatible architecture, is released.",Mainframe,Standardized computing architecture.
+1971,"Intel releases the 4004, the first microprocessor.",Microprocessor,Birth of modern microcomputers.
+1975,"Altair 8800, the first personal computer, is introduced.",Microcomputer,Inspired the personal computing revolution.
+1981,"IBM PC is launched, setting a standard for personal computers.",Microcomputer,Popularized personal computing.
+1984,Apple introduces the Macintosh with a graphical user interface.,Microcomputer,Revolutionized user-friendly computing.
+1993,Intel releases the Pentium processor.,Microprocessor,Boosted computing power significantly.
+2006,Intel introduces multi-core processors.,Microprocessor,Enabled parallel processing and better efficiency.
+2010,"Apple launches the iPad, popularizing tablet computing.",Tablet,Redefined mobile computing.
+2023,"NVIDIA introduces the H100, an advanced AI-focused GPU.",GPU,Revolutionized AI and deep learning workloads.
