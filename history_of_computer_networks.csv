@@ -1,0 +1,16 @@
+Year,Event,Category,Impact
+1837,Invention of the Telegraph,Early Foundations,Enabled long-distance communication via electrical signals.
+1876,Alexander Graham Bell invents the Telephone,Early Foundations,Revolutionized real-time voice communication.
+1948,Claude Shannon's Information Theory,Early Foundations,Established mathematical principles for digital communication.
+1958,Bell 101 Modem,Birth of Computer Networking,First device to transmit digital data over telephone lines.
+1961,Packet Switching Concept,Birth of Computer Networking,"Foundation for modern networking, allowing data to be sent in packets."
+1969,ARPANET Goes Live,Birth of Computer Networking,"First operational network using packet switching, predecessor to the Internet."
+1973,Invention of Ethernet,Internet Takes Shape,Enabled high-speed data transfer in local networks (LANs).
+1974,TCP/IP Proposed,Internet Takes Shape,"Standardized communication protocol for global networking, basis for the Internet."
+1983,TCP/IP Becomes Standard,Internet Takes Shape,"ARPANET adopts TCP/IP, creating the foundation for the modern Internet."
+1989,Tim Berners-Lee Invents the World Wide Web,The Web Era,Enabled easy access and sharing of information via browsers and hyperlinks.
+1995,Commercial Internet Boom,The Web Era,"Companies and consumers adopt the Internet for commerce, entertainment, and communication."
+1997,Wi-Fi Standard Introduced,The Web Era,"Wireless networking becomes widespread, reducing reliance on wired connections."
+2007,The Smartphone Era Begins,Modern Networking,Mobile internet usage surges with the introduction of smartphones.
+2010,Cloud Computing Expansion,Modern Networking,"Remote storage and computing services grow, leading to widespread cloud adoption."
+2020,5G Networks Roll Out,Modern Networking,"Ultra-fast, low-latency connectivity enables IoT and next-gen applications."
